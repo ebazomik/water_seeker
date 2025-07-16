@@ -3,8 +3,8 @@
 
 //#define SCREEN_W GetScreenWidth()
 //#define SCREEN_H GetScreenHeight()
-#define SCREEN_W 1920   
-#define SCREEN_H 1080
+#define SCREEN_W 800   
+#define SCREEN_H 800
 
 enum DirectionState { LEFT, RIGHT, IDLE};
 
